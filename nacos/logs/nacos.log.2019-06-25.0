@@ -1,0 +1,164 @@
+2019-06-25 17:46:01,798 INFO Starting Nacos v1.0.1 on TJGX-PF1NJ2P1 with PID 20796 (C:\Users\GW00178573\Desktop\书籍\work\nacos\target\nacos-server.jar started by GW00178573 in C:\Users\GW00178573\Desktop\书籍\work\nacos\bin)
+
+2019-06-25 17:46:01,809 INFO The following profiles are active: standalone
+
+2019-06-25 17:46:04,341 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$f54a0594] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-06-25 17:46:04,462 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-06-25 17:46:04,468 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@76b1e9b8' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-06-25 17:46:04,470 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$1a1ea846] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-06-25 17:46:04,474 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-06-25 17:46:05,290 INFO Tomcat initialized with port(s): 8848 (http)
+
+2019-06-25 17:46:05,321 INFO Starting service [Tomcat]
+
+2019-06-25 17:46:05,322 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2019-06-25 17:46:05,342 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Tool\Java\jdk1.8.0_112\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\WINDOWS\system32;D:\Tool\Java\jdk1.8.0_112\bin;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\ProgramFiles\svn\bin;D:\Tool\Java\jdk1.8.0_112\bin;C:\Users\GW00178573\AppData\Local\Microsoft\WindowsApps;c:\program files\esafenet\cobra docguard client;D:\ProgramFiles\IntelliJ IDEA 2019.1.1\bin;;D:\Tool\apache-maven-3.6.1\bin;C:\WINDOWS\system32;;.]
+
+2019-06-25 17:46:05,471 INFO Initializing Spring embedded WebApplicationContext
+
+2019-06-25 17:46:05,471 INFO Root WebApplicationContext: initialization completed in 3586 ms
+
+2019-06-25 17:46:09,702 INFO Use Mysql as the driver
+
+2019-06-25 17:51:13,988 INFO Starting Nacos v1.0.1 on TJGX-PF1NJ2P1 with PID 16760 (C:\Users\GW00178573\Desktop\书籍\work\nacos\target\nacos-server.jar started by GW00178573 in C:\Users\GW00178573\Desktop\书籍\work\nacos\bin)
+
+2019-06-25 17:51:13,991 INFO The following profiles are active: standalone
+
+2019-06-25 17:51:16,142 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$46d371e0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-06-25 17:51:16,274 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-06-25 17:51:16,281 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@2eae8e6e' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-06-25 17:51:16,285 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$6ba81492] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-06-25 17:51:16,293 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2019-06-25 17:51:17,100 INFO Tomcat initialized with port(s): 8848 (http)
+
+2019-06-25 17:51:17,139 INFO Starting service [Tomcat]
+
+2019-06-25 17:51:17,139 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2019-06-25 17:51:17,156 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Tool\Java\jdk1.8.0_112\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\WINDOWS\system32;D:\Tool\Java\jdk1.8.0_112\bin;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\ProgramFiles\svn\bin;D:\Tool\Java\jdk1.8.0_112\bin;C:\Users\GW00178573\AppData\Local\Microsoft\WindowsApps;c:\program files\esafenet\cobra docguard client;D:\ProgramFiles\IntelliJ IDEA 2019.1.1\bin;;D:\Tool\apache-maven-3.6.1\bin;C:\WINDOWS\system32;;.]
+
+2019-06-25 17:51:17,267 INFO Initializing Spring embedded WebApplicationContext
+
+2019-06-25 17:51:17,267 INFO Root WebApplicationContext: initialization completed in 3228 ms
+
+2019-06-25 17:51:20,716 INFO Use Mysql as the driver
+
+2019-06-25 17:51:21,448 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2019-06-25 17:51:24,616 INFO Adding welcome page: class path resource [static/index.html]
+
+2019-06-25 17:51:25,035 INFO Creating filter chain: Ant [pattern='/'], []
+
+2019-06-25 17:51:25,036 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2019-06-25 17:51:25,037 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2019-06-25 17:51:25,037 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2019-06-25 17:51:25,039 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2019-06-25 17:51:25,039 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2019-06-25 17:51:25,039 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2019-06-25 17:51:25,040 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2019-06-25 17:51:25,041 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2019-06-25 17:51:25,043 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2019-06-25 17:51:25,043 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2019-06-25 17:51:25,043 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2019-06-25 17:51:25,043 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2019-06-25 17:51:25,043 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2019-06-25 17:51:25,043 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2019-06-25 17:51:25,043 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2019-06-25 17:51:25,095 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5c42d2b7, org.springframework.security.web.context.SecurityContextPersistenceFilter@765f05af, org.springframework.security.web.header.HeaderWriterFilter@7c098bb3, org.springframework.security.web.authentication.logout.LogoutFilter@5c153b9e, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@625abb97, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@f001896, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4bc28c33, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5b1f29fa, org.springframework.security.web.session.SessionManagementFilter@18cebaa5, org.springframework.security.web.access.ExceptionTranslationFilter@1ae67cad, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6bea52d4]
+
+2019-06-25 17:51:25,149 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2019-06-25 17:51:25,188 INFO Initializing ExecutorService 'taskScheduler'
+
+2019-06-25 17:51:25,466 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2019-06-25 17:51:25,471 INFO Started Nacos in 13.099 seconds (JVM running for 13.726)
+
+2019-06-25 17:51:25,471 INFO Nacos Log files: C:\Users\GW00178573\Desktop\书籍\work\nacos/logs/
+
+2019-06-25 17:51:25,471 INFO Nacos Conf files: C:\Users\GW00178573\Desktop\书籍\work\nacos/conf/
+
+2019-06-25 17:51:25,472 INFO Nacos Data files: C:\Users\GW00178573\Desktop\书籍\work\nacos/data/
+
+2019-06-25 17:51:25,472 INFO Nacos started successfully in stand alone mode.
+
+2019-06-25 17:51:25,675 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2019-06-25 17:51:25,675 INFO Initializing Servlet 'dispatcherServlet'
+
+2019-06-25 17:51:25,686 INFO Completed initialization in 11 ms
+
+2019-06-25 17:51:42,971 INFO Expired JWT token.
+
+2019-06-25 17:51:42,987 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-06-25 18:01:20,336 INFO [capacityManagement] start correct usage
+
+2019-06-25 18:01:20,386 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-06-25 18:01:20,706 WARN clearConfigHistory start
+
+2019-06-25 18:11:20,389 INFO [capacityManagement] start correct usage
+
+2019-06-25 18:11:20,396 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-06-25 18:11:20,718 WARN clearConfigHistory start
+
+2019-06-25 18:21:20,400 INFO [capacityManagement] start correct usage
+
+2019-06-25 18:21:20,402 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-06-25 18:21:20,722 WARN clearConfigHistory start
+
+2019-06-25 18:31:20,404 INFO [capacityManagement] start correct usage
+
+2019-06-25 18:31:20,407 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-06-25 18:31:20,726 WARN clearConfigHistory start
+
+2019-06-25 18:41:20,409 INFO [capacityManagement] start correct usage
+
+2019-06-25 18:41:20,416 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-06-25 18:41:20,743 WARN clearConfigHistory start
+
+2019-06-25 18:51:20,419 INFO [capacityManagement] start correct usage
+
+2019-06-25 18:51:20,420 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-06-25 18:51:20,753 WARN clearConfigHistory start
+
+2019-06-25 19:01:20,421 INFO [capacityManagement] start correct usage
+
+2019-06-25 19:01:20,421 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-06-25 19:01:20,755 WARN clearConfigHistory start
+
+2019-06-25 22:03:05,680 WARN clearConfigHistory start
+

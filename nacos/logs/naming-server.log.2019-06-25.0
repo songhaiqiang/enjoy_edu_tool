@@ -1,0 +1,1007 @@
+2019-06-25 17:46:05,780 INFO listen for service meta change
+
+2019-06-25 17:46:39,731 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 17:51:17,525 INFO listen for service meta change
+
+2019-06-25 17:51:25,467 INFO [SERVER-INIT] got port: 8848
+
+2019-06-25 17:51:25,468 INFO [SERVER-INIT] got path: /nacos
+
+2019-06-25 17:51:25,755 INFO creating empty service public:DEFAULT_GROUP@@blade-gateway
+
+2019-06-25 17:51:25,781 WARN cluster: DEFAULT not found, ip: {"app":"","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#80#DEFAULT#DEFAULT_GROUP@@blade-gateway","ip":"192.168.49.190","lastBeat":1561456285755,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":80,"serviceName":"DEFAULT_GROUP@@blade-gateway","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2019-06-25 17:51:25,786 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-gateway, value: {"cachedChecksum":"","instanceList":[{"app":"","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#80#DEFAULT#DEFAULT_GROUP@@blade-gateway","ip":"192.168.49.190","lastBeat":1561456285755,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":80,"serviceName":"DEFAULT_GROUP@@blade-gateway","tenant":"","weight":1}]}
+
+2019-06-25 17:51:37,307 INFO receive config info: unknown#192.168.49.190:8848#1561456297306#4
+
+
+2019-06-25 17:51:37,308 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.49.190","key":"192.168.49.190:8848","lastRefTime":1561456297306,"lastRefTimeStr":"2019-06-25 17:51:37","servePort":8848,"site":"unknown","weight":4}]
+
+2019-06-25 17:51:50,725 INFO [HEALTH-CHECK] health check is false
+
+2019-06-25 17:51:52,311 INFO receive config info: unknown#192.168.49.190:8848#1561456312311#4
+
+
+2019-06-25 17:52:02,447 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-gateway, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-06-25 17:52:07,312 INFO receive config info: unknown#192.168.49.190:8848#1561456327312#4
+
+
+2019-06-25 17:52:22,314 INFO receive config info: unknown#192.168.49.190:8848#1561456342314#4
+
+
+2019-06-25 17:52:37,316 INFO receive config info: unknown#192.168.49.190:8848#1561456357316#4
+
+
+2019-06-25 17:52:37,316 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-06-25 17:52:52,317 INFO receive config info: unknown#192.168.49.190:8848#1561456372317#4
+
+
+2019-06-25 17:53:07,318 INFO receive config info: unknown#192.168.49.190:8848#1561456387318#4
+
+
+2019-06-25 17:53:22,320 INFO receive config info: unknown#192.168.49.190:8848#1561456402320#4
+
+
+2019-06-25 17:53:37,321 INFO receive config info: unknown#192.168.49.190:8848#1561456417321#4
+
+
+2019-06-25 17:53:52,323 INFO receive config info: unknown#192.168.49.190:8848#1561456432323#4
+
+
+2019-06-25 17:54:07,325 INFO receive config info: unknown#192.168.49.190:8848#1561456447325#4
+
+
+2019-06-25 17:54:22,326 INFO receive config info: unknown#192.168.49.190:8848#1561456462326#4
+
+
+2019-06-25 17:54:37,327 INFO receive config info: unknown#192.168.49.190:8848#1561456477327#4
+
+
+2019-06-25 17:54:52,329 INFO receive config info: unknown#192.168.49.190:8848#1561456492329#4
+
+
+2019-06-25 17:55:07,331 INFO receive config info: unknown#192.168.49.190:8848#1561456507331#4
+
+
+2019-06-25 17:55:22,332 INFO receive config info: unknown#192.168.49.190:8848#1561456522332#4
+
+
+2019-06-25 17:55:37,333 INFO receive config info: unknown#192.168.49.190:8848#1561456537333#4
+
+
+2019-06-25 17:55:52,335 INFO receive config info: unknown#192.168.49.190:8848#1561456552335#4
+
+
+2019-06-25 17:56:07,337 INFO receive config info: unknown#192.168.49.190:8848#1561456567337#4
+
+
+2019-06-25 17:56:22,337 INFO receive config info: unknown#192.168.49.190:8848#1561456582337#4
+
+
+2019-06-25 17:56:37,339 INFO receive config info: unknown#192.168.49.190:8848#1561456597339#4
+
+
+2019-06-25 17:56:50,725 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 17:56:52,341 INFO receive config info: unknown#192.168.49.190:8848#1561456612341#4
+
+
+2019-06-25 17:57:07,343 INFO receive config info: unknown#192.168.49.190:8848#1561456627343#4
+
+
+2019-06-25 17:57:22,345 INFO receive config info: unknown#192.168.49.190:8848#1561456642345#4
+
+
+2019-06-25 17:57:37,347 INFO receive config info: unknown#192.168.49.190:8848#1561456657347#4
+
+
+2019-06-25 17:57:52,349 INFO receive config info: unknown#192.168.49.190:8848#1561456672349#4
+
+
+2019-06-25 17:58:07,350 INFO receive config info: unknown#192.168.49.190:8848#1561456687350#4
+
+
+2019-06-25 17:58:22,351 INFO receive config info: unknown#192.168.49.190:8848#1561456702351#4
+
+
+2019-06-25 17:58:37,353 INFO receive config info: unknown#192.168.49.190:8848#1561456717353#4
+
+
+2019-06-25 17:58:52,355 INFO receive config info: unknown#192.168.49.190:8848#1561456732355#4
+
+
+2019-06-25 17:59:07,357 INFO receive config info: unknown#192.168.49.190:8848#1561456747357#4
+
+
+2019-06-25 17:59:22,358 INFO receive config info: unknown#192.168.49.190:8848#1561456762358#4
+
+
+2019-06-25 17:59:37,359 INFO receive config info: unknown#192.168.49.190:8848#1561456777359#4
+
+
+2019-06-25 17:59:52,361 INFO receive config info: unknown#192.168.49.190:8848#1561456792361#4
+
+
+2019-06-25 18:00:07,362 INFO receive config info: unknown#192.168.49.190:8848#1561456807362#4
+
+
+2019-06-25 18:00:22,363 INFO receive config info: unknown#192.168.49.190:8848#1561456822363#4
+
+
+2019-06-25 18:00:37,365 INFO receive config info: unknown#192.168.49.190:8848#1561456837365#4
+
+
+2019-06-25 18:00:52,367 INFO receive config info: unknown#192.168.49.190:8848#1561456852367#4
+
+
+2019-06-25 18:01:07,369 INFO receive config info: unknown#192.168.49.190:8848#1561456867369#4
+
+
+2019-06-25 18:01:22,370 INFO receive config info: unknown#192.168.49.190:8848#1561456882370#4
+
+
+2019-06-25 18:01:37,371 INFO receive config info: unknown#192.168.49.190:8848#1561456897371#4
+
+
+2019-06-25 18:01:50,727 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:01:52,372 INFO receive config info: unknown#192.168.49.190:8848#1561456912372#4
+
+
+2019-06-25 18:02:07,374 INFO receive config info: unknown#192.168.49.190:8848#1561456927374#4
+
+
+2019-06-25 18:02:22,376 INFO receive config info: unknown#192.168.49.190:8848#1561456942376#4
+
+
+2019-06-25 18:02:37,377 INFO receive config info: unknown#192.168.49.190:8848#1561456957377#4
+
+
+2019-06-25 18:02:52,379 INFO receive config info: unknown#192.168.49.190:8848#1561456972379#4
+
+
+2019-06-25 18:03:07,381 INFO receive config info: unknown#192.168.49.190:8848#1561456987381#4
+
+
+2019-06-25 18:03:22,383 INFO receive config info: unknown#192.168.49.190:8848#1561457002383#4
+
+
+2019-06-25 18:03:37,385 INFO receive config info: unknown#192.168.49.190:8848#1561457017385#4
+
+
+2019-06-25 18:03:52,387 INFO receive config info: unknown#192.168.49.190:8848#1561457032387#4
+
+
+2019-06-25 18:04:07,388 INFO receive config info: unknown#192.168.49.190:8848#1561457047388#4
+
+
+2019-06-25 18:04:22,390 INFO receive config info: unknown#192.168.49.190:8848#1561457062390#4
+
+
+2019-06-25 18:04:37,392 INFO receive config info: unknown#192.168.49.190:8848#1561457077392#4
+
+
+2019-06-25 18:04:52,394 INFO receive config info: unknown#192.168.49.190:8848#1561457092394#4
+
+
+2019-06-25 18:05:07,395 INFO receive config info: unknown#192.168.49.190:8848#1561457107395#4
+
+
+2019-06-25 18:05:22,397 INFO receive config info: unknown#192.168.49.190:8848#1561457122397#4
+
+
+2019-06-25 18:05:37,398 INFO receive config info: unknown#192.168.49.190:8848#1561457137398#4
+
+
+2019-06-25 18:05:52,399 INFO receive config info: unknown#192.168.49.190:8848#1561457152399#4
+
+
+2019-06-25 18:06:07,401 INFO receive config info: unknown#192.168.49.190:8848#1561457167401#4
+
+
+2019-06-25 18:06:22,403 INFO receive config info: unknown#192.168.49.190:8848#1561457182403#4
+
+
+2019-06-25 18:06:37,405 INFO receive config info: unknown#192.168.49.190:8848#1561457197405#4
+
+
+2019-06-25 18:06:50,729 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:06:52,407 INFO receive config info: unknown#192.168.49.190:8848#1561457212407#4
+
+
+2019-06-25 18:07:07,409 INFO receive config info: unknown#192.168.49.190:8848#1561457227409#4
+
+
+2019-06-25 18:07:22,410 INFO receive config info: unknown#192.168.49.190:8848#1561457242410#4
+
+
+2019-06-25 18:07:37,410 INFO receive config info: unknown#192.168.49.190:8848#1561457257410#4
+
+
+2019-06-25 18:07:52,411 INFO receive config info: unknown#192.168.49.190:8848#1561457272411#4
+
+
+2019-06-25 18:08:07,413 INFO receive config info: unknown#192.168.49.190:8848#1561457287413#4
+
+
+2019-06-25 18:08:22,415 INFO receive config info: unknown#192.168.49.190:8848#1561457302415#4
+
+
+2019-06-25 18:08:37,417 INFO receive config info: unknown#192.168.49.190:8848#1561457317417#4
+
+
+2019-06-25 18:08:52,419 INFO receive config info: unknown#192.168.49.190:8848#1561457332419#4
+
+
+2019-06-25 18:09:07,420 INFO receive config info: unknown#192.168.49.190:8848#1561457347420#4
+
+
+2019-06-25 18:09:22,421 INFO receive config info: unknown#192.168.49.190:8848#1561457362421#4
+
+
+2019-06-25 18:09:37,423 INFO receive config info: unknown#192.168.49.190:8848#1561457377423#4
+
+
+2019-06-25 18:09:52,425 INFO receive config info: unknown#192.168.49.190:8848#1561457392425#4
+
+
+2019-06-25 18:10:07,426 INFO receive config info: unknown#192.168.49.190:8848#1561457407426#4
+
+
+2019-06-25 18:10:22,428 INFO receive config info: unknown#192.168.49.190:8848#1561457422428#4
+
+
+2019-06-25 18:10:37,430 INFO receive config info: unknown#192.168.49.190:8848#1561457437430#4
+
+
+2019-06-25 18:10:52,433 INFO receive config info: unknown#192.168.49.190:8848#1561457452433#4
+
+
+2019-06-25 18:11:07,435 INFO receive config info: unknown#192.168.49.190:8848#1561457467435#4
+
+
+2019-06-25 18:11:22,437 INFO receive config info: unknown#192.168.49.190:8848#1561457482437#4
+
+
+2019-06-25 18:11:37,439 INFO receive config info: unknown#192.168.49.190:8848#1561457497439#4
+
+
+2019-06-25 18:11:50,732 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:11:52,440 INFO receive config info: unknown#192.168.49.190:8848#1561457512440#4
+
+
+2019-06-25 18:12:00,408 INFO creating empty service public:DEFAULT_GROUP@@blade-auth
+
+2019-06-25 18:12:00,408 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#8100#DEFAULT#DEFAULT_GROUP@@blade-auth","ip":"192.168.49.190","lastBeat":1561457520403,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8100,"serviceName":"DEFAULT_GROUP@@blade-auth","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2019-06-25 18:12:00,408 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-auth, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#8100#DEFAULT#DEFAULT_GROUP@@blade-auth","ip":"192.168.49.190","lastBeat":1561457520403,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8100,"serviceName":"DEFAULT_GROUP@@blade-auth","tenant":"","weight":1}]}
+
+2019-06-25 18:12:07,442 INFO receive config info: unknown#192.168.49.190:8848#1561457527442#4
+
+
+2019-06-25 18:12:22,444 INFO receive config info: unknown#192.168.49.190:8848#1561457542444#4
+
+
+2019-06-25 18:12:37,446 INFO receive config info: unknown#192.168.49.190:8848#1561457557446#4
+
+
+2019-06-25 18:12:52,447 INFO receive config info: unknown#192.168.49.190:8848#1561457572447#4
+
+
+2019-06-25 18:13:07,448 INFO receive config info: unknown#192.168.49.190:8848#1561457587448#4
+
+
+2019-06-25 18:13:22,450 INFO receive config info: unknown#192.168.49.190:8848#1561457602450#4
+
+
+2019-06-25 18:13:37,452 INFO receive config info: unknown#192.168.49.190:8848#1561457617452#4
+
+
+2019-06-25 18:13:52,453 INFO receive config info: unknown#192.168.49.190:8848#1561457632453#4
+
+
+2019-06-25 18:14:07,454 INFO receive config info: unknown#192.168.49.190:8848#1561457647454#4
+
+
+2019-06-25 18:14:22,456 INFO receive config info: unknown#192.168.49.190:8848#1561457662456#4
+
+
+2019-06-25 18:14:37,458 INFO receive config info: unknown#192.168.49.190:8848#1561457677458#4
+
+
+2019-06-25 18:14:52,460 INFO receive config info: unknown#192.168.49.190:8848#1561457692460#4
+
+
+2019-06-25 18:15:07,461 INFO receive config info: unknown#192.168.49.190:8848#1561457707461#4
+
+
+2019-06-25 18:15:22,463 INFO receive config info: unknown#192.168.49.190:8848#1561457722463#4
+
+
+2019-06-25 18:15:37,464 INFO receive config info: unknown#192.168.49.190:8848#1561457737464#4
+
+
+2019-06-25 18:15:52,466 INFO receive config info: unknown#192.168.49.190:8848#1561457752466#4
+
+
+2019-06-25 18:15:59,784 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-auth
+
+2019-06-25 18:16:00,210 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-auth, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#8100#DEFAULT#DEFAULT_GROUP@@blade-auth","ip":"192.168.49.190","lastBeat":1561457760210,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8100,"serviceName":"DEFAULT_GROUP@@blade-auth","tenant":"","weight":1}]}
+
+2019-06-25 18:16:00,825 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-auth
+
+2019-06-25 18:16:01,212 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-auth
+
+2019-06-25 18:16:07,467 INFO receive config info: unknown#192.168.49.190:8848#1561457767467#4
+
+
+2019-06-25 18:16:22,469 INFO receive config info: unknown#192.168.49.190:8848#1561457782469#4
+
+
+2019-06-25 18:16:37,470 INFO receive config info: unknown#192.168.49.190:8848#1561457797470#4
+
+
+2019-06-25 18:16:50,735 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:16:52,472 INFO receive config info: unknown#192.168.49.190:8848#1561457812472#4
+
+
+2019-06-25 18:17:07,473 INFO receive config info: unknown#192.168.49.190:8848#1561457827473#4
+
+
+2019-06-25 18:17:22,474 INFO receive config info: unknown#192.168.49.190:8848#1561457842474#4
+
+
+2019-06-25 18:17:37,476 INFO receive config info: unknown#192.168.49.190:8848#1561457857476#4
+
+
+2019-06-25 18:17:52,478 INFO receive config info: unknown#192.168.49.190:8848#1561457872478#4
+
+
+2019-06-25 18:18:07,479 INFO receive config info: unknown#192.168.49.190:8848#1561457887479#4
+
+
+2019-06-25 18:18:17,842 INFO creating empty service public:DEFAULT_GROUP@@blade-admin
+
+2019-06-25 18:18:17,843 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#7002#DEFAULT#DEFAULT_GROUP@@blade-admin","ip":"192.168.49.190","lastBeat":1561457897842,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":7002,"serviceName":"DEFAULT_GROUP@@blade-admin","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2019-06-25 18:18:17,843 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-admin, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#7002#DEFAULT#DEFAULT_GROUP@@blade-admin","ip":"192.168.49.190","lastBeat":1561457897842,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":7002,"serviceName":"DEFAULT_GROUP@@blade-admin","tenant":"","weight":1}]}
+
+2019-06-25 18:18:22,481 INFO receive config info: unknown#192.168.49.190:8848#1561457902481#4
+
+
+2019-06-25 18:18:37,482 INFO receive config info: unknown#192.168.49.190:8848#1561457917482#4
+
+
+2019-06-25 18:18:52,483 INFO receive config info: unknown#192.168.49.190:8848#1561457932483#4
+
+
+2019-06-25 18:19:07,484 INFO receive config info: unknown#192.168.49.190:8848#1561457947484#4
+
+
+2019-06-25 18:19:22,486 INFO receive config info: unknown#192.168.49.190:8848#1561457962486#4
+
+
+2019-06-25 18:19:37,487 INFO receive config info: unknown#192.168.49.190:8848#1561457977487#4
+
+
+2019-06-25 18:19:52,489 INFO receive config info: unknown#192.168.49.190:8848#1561457992489#4
+
+
+2019-06-25 18:20:07,491 INFO receive config info: unknown#192.168.49.190:8848#1561458007491#4
+
+
+2019-06-25 18:20:22,493 INFO receive config info: unknown#192.168.49.190:8848#1561458022493#4
+
+
+2019-06-25 18:20:32,766 INFO creating empty service public:DEFAULT_GROUP@@blade-user
+
+2019-06-25 18:20:32,767 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#8102#DEFAULT#DEFAULT_GROUP@@blade-user","ip":"192.168.49.190","lastBeat":1561458032766,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8102,"serviceName":"DEFAULT_GROUP@@blade-user","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2019-06-25 18:20:32,767 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-user, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#8102#DEFAULT#DEFAULT_GROUP@@blade-user","ip":"192.168.49.190","lastBeat":1561458032766,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8102,"serviceName":"DEFAULT_GROUP@@blade-user","tenant":"","weight":1}]}
+
+2019-06-25 18:20:37,495 INFO receive config info: unknown#192.168.49.190:8848#1561458037495#4
+
+
+2019-06-25 18:20:52,497 INFO receive config info: unknown#192.168.49.190:8848#1561458052497#4
+
+
+2019-06-25 18:21:05,745 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-admin, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-06-25 18:21:07,503 INFO receive config info: unknown#192.168.49.190:8848#1561458067503#4
+
+
+2019-06-25 18:21:21,450 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-admin, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#7002#DEFAULT#DEFAULT_GROUP@@blade-admin","ip":"192.168.49.190","lastBeat":1561458081450,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":7002,"serviceName":"DEFAULT_GROUP@@blade-admin","tenant":"","weight":1}]}
+
+2019-06-25 18:21:22,504 INFO receive config info: unknown#192.168.49.190:8848#1561458082504#4
+
+
+2019-06-25 18:21:37,506 INFO receive config info: unknown#192.168.49.190:8848#1561458097506#4
+
+
+2019-06-25 18:21:50,741 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:21:52,508 INFO receive config info: unknown#192.168.49.190:8848#1561458112508#4
+
+
+2019-06-25 18:22:07,509 INFO receive config info: unknown#192.168.49.190:8848#1561458127509#4
+
+
+2019-06-25 18:22:22,510 INFO receive config info: unknown#192.168.49.190:8848#1561458142510#4
+
+
+2019-06-25 18:22:37,516 INFO receive config info: unknown#192.168.49.190:8848#1561458157516#4
+
+
+2019-06-25 18:22:52,518 INFO receive config info: unknown#192.168.49.190:8848#1561458172518#4
+
+
+2019-06-25 18:23:07,520 INFO receive config info: unknown#192.168.49.190:8848#1561458187520#4
+
+
+2019-06-25 18:23:22,521 INFO receive config info: unknown#192.168.49.190:8848#1561458202521#4
+
+
+2019-06-25 18:23:37,523 INFO receive config info: unknown#192.168.49.190:8848#1561458217523#4
+
+
+2019-06-25 18:23:52,526 INFO receive config info: unknown#192.168.49.190:8848#1561458232526#4
+
+
+2019-06-25 18:24:07,528 INFO receive config info: unknown#192.168.49.190:8848#1561458247528#4
+
+
+2019-06-25 18:24:22,529 INFO receive config info: unknown#192.168.49.190:8848#1561458262529#4
+
+
+2019-06-25 18:24:37,531 INFO receive config info: unknown#192.168.49.190:8848#1561458277531#4
+
+
+2019-06-25 18:24:52,533 INFO receive config info: unknown#192.168.49.190:8848#1561458292533#4
+
+
+2019-06-25 18:25:07,544 INFO receive config info: unknown#192.168.49.190:8848#1561458307540#4
+
+
+2019-06-25 18:25:08,763 INFO creating empty service public:DEFAULT_GROUP@@blade-log
+
+2019-06-25 18:25:08,765 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#8103#DEFAULT#DEFAULT_GROUP@@blade-log","ip":"192.168.49.190","lastBeat":1561458308763,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8103,"serviceName":"DEFAULT_GROUP@@blade-log","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2019-06-25 18:25:08,765 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-log, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#8103#DEFAULT#DEFAULT_GROUP@@blade-log","ip":"192.168.49.190","lastBeat":1561458308763,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8103,"serviceName":"DEFAULT_GROUP@@blade-log","tenant":"","weight":1}]}
+
+2019-06-25 18:25:22,546 INFO receive config info: unknown#192.168.49.190:8848#1561458322546#4
+
+
+2019-06-25 18:25:37,547 INFO receive config info: unknown#192.168.49.190:8848#1561458337547#4
+
+
+2019-06-25 18:25:52,549 INFO receive config info: unknown#192.168.49.190:8848#1561458352549#4
+
+
+2019-06-25 18:26:07,550 INFO receive config info: unknown#192.168.49.190:8848#1561458367550#4
+
+
+2019-06-25 18:26:22,552 INFO receive config info: unknown#192.168.49.190:8848#1561458382552#4
+
+
+2019-06-25 18:26:37,553 INFO receive config info: unknown#192.168.49.190:8848#1561458397553#4
+
+
+2019-06-25 18:26:50,748 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:26:52,555 INFO receive config info: unknown#192.168.49.190:8848#1561458412555#4
+
+
+2019-06-25 18:27:07,562 INFO receive config info: unknown#192.168.49.190:8848#1561458427562#4
+
+
+2019-06-25 18:27:22,568 INFO receive config info: unknown#192.168.49.190:8848#1561458442568#4
+
+
+2019-06-25 18:27:37,569 INFO receive config info: unknown#192.168.49.190:8848#1561458457569#4
+
+
+2019-06-25 18:27:52,570 INFO receive config info: unknown#192.168.49.190:8848#1561458472570#4
+
+
+2019-06-25 18:28:07,575 INFO receive config info: unknown#192.168.49.190:8848#1561458487575#4
+
+
+2019-06-25 18:28:22,576 INFO receive config info: unknown#192.168.49.190:8848#1561458502576#4
+
+
+2019-06-25 18:28:37,581 INFO receive config info: unknown#192.168.49.190:8848#1561458517581#4
+
+
+2019-06-25 18:28:52,583 INFO receive config info: unknown#192.168.49.190:8848#1561458532583#4
+
+
+2019-06-25 18:29:07,585 INFO receive config info: unknown#192.168.49.190:8848#1561458547585#4
+
+
+2019-06-25 18:29:22,586 INFO receive config info: unknown#192.168.49.190:8848#1561458562586#4
+
+
+2019-06-25 18:29:37,588 INFO receive config info: unknown#192.168.49.190:8848#1561458577588#4
+
+
+2019-06-25 18:29:52,590 INFO receive config info: unknown#192.168.49.190:8848#1561458592590#4
+
+
+2019-06-25 18:30:07,591 INFO receive config info: unknown#192.168.49.190:8848#1561458607591#4
+
+
+2019-06-25 18:30:22,592 INFO receive config info: unknown#192.168.49.190:8848#1561458622592#4
+
+
+2019-06-25 18:30:37,593 INFO receive config info: unknown#192.168.49.190:8848#1561458637593#4
+
+
+2019-06-25 18:30:52,595 INFO receive config info: unknown#192.168.49.190:8848#1561458652595#4
+
+
+2019-06-25 18:31:07,597 INFO receive config info: unknown#192.168.49.190:8848#1561458667597#4
+
+
+2019-06-25 18:31:22,599 INFO receive config info: unknown#192.168.49.190:8848#1561458682599#4
+
+
+2019-06-25 18:31:37,600 INFO receive config info: unknown#192.168.49.190:8848#1561458697600#4
+
+
+2019-06-25 18:31:50,750 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:31:52,602 INFO receive config info: unknown#192.168.49.190:8848#1561458712602#4
+
+
+2019-06-25 18:32:07,604 INFO receive config info: unknown#192.168.49.190:8848#1561458727604#4
+
+
+2019-06-25 18:32:22,606 INFO receive config info: unknown#192.168.49.190:8848#1561458742606#4
+
+
+2019-06-25 18:32:37,608 INFO receive config info: unknown#192.168.49.190:8848#1561458757608#4
+
+
+2019-06-25 18:32:52,609 INFO receive config info: unknown#192.168.49.190:8848#1561458772609#4
+
+
+2019-06-25 18:33:07,610 INFO receive config info: unknown#192.168.49.190:8848#1561458787610#4
+
+
+2019-06-25 18:33:22,612 INFO receive config info: unknown#192.168.49.190:8848#1561458802612#4
+
+
+2019-06-25 18:33:37,613 INFO receive config info: unknown#192.168.49.190:8848#1561458817613#4
+
+
+2019-06-25 18:33:52,618 INFO receive config info: unknown#192.168.49.190:8848#1561458832618#4
+
+
+2019-06-25 18:34:07,624 INFO receive config info: unknown#192.168.49.190:8848#1561458847624#4
+
+
+2019-06-25 18:34:22,625 INFO receive config info: unknown#192.168.49.190:8848#1561458862625#4
+
+
+2019-06-25 18:34:37,627 INFO receive config info: unknown#192.168.49.190:8848#1561458877627#4
+
+
+2019-06-25 18:34:52,629 INFO receive config info: unknown#192.168.49.190:8848#1561458892629#4
+
+
+2019-06-25 18:35:07,631 INFO receive config info: unknown#192.168.49.190:8848#1561458907631#4
+
+
+2019-06-25 18:35:22,632 INFO receive config info: unknown#192.168.49.190:8848#1561458922632#4
+
+
+2019-06-25 18:35:37,640 INFO receive config info: unknown#192.168.49.190:8848#1561458937640#4
+
+
+2019-06-25 18:35:52,641 INFO receive config info: unknown#192.168.49.190:8848#1561458952641#4
+
+
+2019-06-25 18:36:07,643 INFO receive config info: unknown#192.168.49.190:8848#1561458967643#4
+
+
+2019-06-25 18:36:22,650 INFO receive config info: unknown#192.168.49.190:8848#1561458982650#4
+
+
+2019-06-25 18:36:37,652 INFO receive config info: unknown#192.168.49.190:8848#1561458997652#4
+
+
+2019-06-25 18:36:50,757 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:36:52,653 INFO receive config info: unknown#192.168.49.190:8848#1561459012653#4
+
+
+2019-06-25 18:37:07,655 INFO receive config info: unknown#192.168.49.190:8848#1561459027655#4
+
+
+2019-06-25 18:37:22,658 INFO receive config info: unknown#192.168.49.190:8848#1561459042658#4
+
+
+2019-06-25 18:37:37,661 INFO receive config info: unknown#192.168.49.190:8848#1561459057661#4
+
+
+2019-06-25 18:37:52,661 INFO receive config info: unknown#192.168.49.190:8848#1561459072661#4
+
+
+2019-06-25 18:38:07,662 INFO receive config info: unknown#192.168.49.190:8848#1561459087662#4
+
+
+2019-06-25 18:38:22,663 INFO receive config info: unknown#192.168.49.190:8848#1561459102663#4
+
+
+2019-06-25 18:38:37,665 INFO receive config info: unknown#192.168.49.190:8848#1561459117665#4
+
+
+2019-06-25 18:38:52,666 INFO receive config info: unknown#192.168.49.190:8848#1561459132666#4
+
+
+2019-06-25 18:39:07,668 INFO receive config info: unknown#192.168.49.190:8848#1561459147668#4
+
+
+2019-06-25 18:39:22,670 INFO receive config info: unknown#192.168.49.190:8848#1561459162670#4
+
+
+2019-06-25 18:39:37,672 INFO receive config info: unknown#192.168.49.190:8848#1561459177672#4
+
+
+2019-06-25 18:39:52,674 INFO receive config info: unknown#192.168.49.190:8848#1561459192674#4
+
+
+2019-06-25 18:40:07,676 INFO receive config info: unknown#192.168.49.190:8848#1561459207676#4
+
+
+2019-06-25 18:40:22,677 INFO receive config info: unknown#192.168.49.190:8848#1561459222677#4
+
+
+2019-06-25 18:40:37,679 INFO receive config info: unknown#192.168.49.190:8848#1561459237679#4
+
+
+2019-06-25 18:40:52,681 INFO receive config info: unknown#192.168.49.190:8848#1561459252681#4
+
+
+2019-06-25 18:41:07,683 INFO receive config info: unknown#192.168.49.190:8848#1561459267683#4
+
+
+2019-06-25 18:41:22,689 INFO receive config info: unknown#192.168.49.190:8848#1561459282689#4
+
+
+2019-06-25 18:41:37,691 INFO receive config info: unknown#192.168.49.190:8848#1561459297691#4
+
+
+2019-06-25 18:41:50,758 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:41:52,693 INFO receive config info: unknown#192.168.49.190:8848#1561459312693#4
+
+
+2019-06-25 18:42:07,694 INFO receive config info: unknown#192.168.49.190:8848#1561459327694#4
+
+
+2019-06-25 18:42:22,695 INFO receive config info: unknown#192.168.49.190:8848#1561459342695#4
+
+
+2019-06-25 18:42:37,696 INFO receive config info: unknown#192.168.49.190:8848#1561459357696#4
+
+
+2019-06-25 18:42:52,699 INFO receive config info: unknown#192.168.49.190:8848#1561459372699#4
+
+
+2019-06-25 18:43:07,701 INFO receive config info: unknown#192.168.49.190:8848#1561459387701#4
+
+
+2019-06-25 18:43:22,702 INFO receive config info: unknown#192.168.49.190:8848#1561459402702#4
+
+
+2019-06-25 18:43:37,704 INFO receive config info: unknown#192.168.49.190:8848#1561459417704#4
+
+
+2019-06-25 18:43:52,706 INFO receive config info: unknown#192.168.49.190:8848#1561459432706#4
+
+
+2019-06-25 18:44:07,708 INFO receive config info: unknown#192.168.49.190:8848#1561459447708#4
+
+
+2019-06-25 18:44:22,710 INFO receive config info: unknown#192.168.49.190:8848#1561459462710#4
+
+
+2019-06-25 18:44:37,712 INFO receive config info: unknown#192.168.49.190:8848#1561459477712#4
+
+
+2019-06-25 18:44:52,713 INFO receive config info: unknown#192.168.49.190:8848#1561459492713#4
+
+
+2019-06-25 18:45:07,714 INFO receive config info: unknown#192.168.49.190:8848#1561459507714#4
+
+
+2019-06-25 18:45:22,716 INFO receive config info: unknown#192.168.49.190:8848#1561459522716#4
+
+
+2019-06-25 18:45:37,718 INFO receive config info: unknown#192.168.49.190:8848#1561459537718#4
+
+
+2019-06-25 18:45:52,719 INFO receive config info: unknown#192.168.49.190:8848#1561459552719#4
+
+
+2019-06-25 18:46:07,721 INFO receive config info: unknown#192.168.49.190:8848#1561459567721#4
+
+
+2019-06-25 18:46:22,722 INFO receive config info: unknown#192.168.49.190:8848#1561459582722#4
+
+
+2019-06-25 18:46:37,724 INFO receive config info: unknown#192.168.49.190:8848#1561459597724#4
+
+
+2019-06-25 18:46:50,760 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:46:52,724 INFO receive config info: unknown#192.168.49.190:8848#1561459612724#4
+
+
+2019-06-25 18:47:07,726 INFO receive config info: unknown#192.168.49.190:8848#1561459627726#4
+
+
+2019-06-25 18:47:22,728 INFO receive config info: unknown#192.168.49.190:8848#1561459642728#4
+
+
+2019-06-25 18:47:37,730 INFO receive config info: unknown#192.168.49.190:8848#1561459657730#4
+
+
+2019-06-25 18:47:52,731 INFO receive config info: unknown#192.168.49.190:8848#1561459672731#4
+
+
+2019-06-25 18:48:07,733 INFO receive config info: unknown#192.168.49.190:8848#1561459687733#4
+
+
+2019-06-25 18:48:22,735 INFO receive config info: unknown#192.168.49.190:8848#1561459702735#4
+
+
+2019-06-25 18:48:37,735 INFO receive config info: unknown#192.168.49.190:8848#1561459717735#4
+
+
+2019-06-25 18:48:52,737 INFO receive config info: unknown#192.168.49.190:8848#1561459732737#4
+
+
+2019-06-25 18:49:07,739 INFO receive config info: unknown#192.168.49.190:8848#1561459747739#4
+
+
+2019-06-25 18:49:22,741 INFO receive config info: unknown#192.168.49.190:8848#1561459762741#4
+
+
+2019-06-25 18:49:37,743 INFO receive config info: unknown#192.168.49.190:8848#1561459777743#4
+
+
+2019-06-25 18:49:52,745 INFO receive config info: unknown#192.168.49.190:8848#1561459792745#4
+
+
+2019-06-25 18:50:07,747 INFO receive config info: unknown#192.168.49.190:8848#1561459807747#4
+
+
+2019-06-25 18:50:22,749 INFO receive config info: unknown#192.168.49.190:8848#1561459822749#4
+
+
+2019-06-25 18:50:37,751 INFO receive config info: unknown#192.168.49.190:8848#1561459837751#4
+
+
+2019-06-25 18:50:52,753 INFO receive config info: unknown#192.168.49.190:8848#1561459852753#4
+
+
+2019-06-25 18:51:07,754 INFO receive config info: unknown#192.168.49.190:8848#1561459867754#4
+
+
+2019-06-25 18:51:22,757 INFO receive config info: unknown#192.168.49.190:8848#1561459882757#4
+
+
+2019-06-25 18:51:37,757 INFO receive config info: unknown#192.168.49.190:8848#1561459897757#4
+
+
+2019-06-25 18:51:50,761 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:51:52,759 INFO receive config info: unknown#192.168.49.190:8848#1561459912759#4
+
+
+2019-06-25 18:52:07,761 INFO receive config info: unknown#192.168.49.190:8848#1561459927761#4
+
+
+2019-06-25 18:52:22,763 INFO receive config info: unknown#192.168.49.190:8848#1561459942763#4
+
+
+2019-06-25 18:52:37,765 INFO receive config info: unknown#192.168.49.190:8848#1561459957765#4
+
+
+2019-06-25 18:52:52,767 INFO receive config info: unknown#192.168.49.190:8848#1561459972767#4
+
+
+2019-06-25 18:53:07,770 INFO receive config info: unknown#192.168.49.190:8848#1561459987770#4
+
+
+2019-06-25 18:53:22,771 INFO receive config info: unknown#192.168.49.190:8848#1561460002771#4
+
+
+2019-06-25 18:53:37,773 INFO receive config info: unknown#192.168.49.190:8848#1561460017773#4
+
+
+2019-06-25 18:53:52,775 INFO receive config info: unknown#192.168.49.190:8848#1561460032775#4
+
+
+2019-06-25 18:54:07,776 INFO receive config info: unknown#192.168.49.190:8848#1561460047776#4
+
+
+2019-06-25 18:54:22,778 INFO receive config info: unknown#192.168.49.190:8848#1561460062778#4
+
+
+2019-06-25 18:54:37,780 INFO receive config info: unknown#192.168.49.190:8848#1561460077780#4
+
+
+2019-06-25 18:54:52,781 INFO receive config info: unknown#192.168.49.190:8848#1561460092781#4
+
+
+2019-06-25 18:55:07,782 INFO receive config info: unknown#192.168.49.190:8848#1561460107782#4
+
+
+2019-06-25 18:55:22,783 INFO receive config info: unknown#192.168.49.190:8848#1561460122783#4
+
+
+2019-06-25 18:55:37,785 INFO receive config info: unknown#192.168.49.190:8848#1561460137785#4
+
+
+2019-06-25 18:55:52,786 INFO receive config info: unknown#192.168.49.190:8848#1561460152786#4
+
+
+2019-06-25 18:56:07,788 INFO receive config info: unknown#192.168.49.190:8848#1561460167788#4
+
+
+2019-06-25 18:56:22,789 INFO receive config info: unknown#192.168.49.190:8848#1561460182789#4
+
+
+2019-06-25 18:56:37,790 INFO receive config info: unknown#192.168.49.190:8848#1561460197790#4
+
+
+2019-06-25 18:56:50,763 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 18:56:52,791 INFO receive config info: unknown#192.168.49.190:8848#1561460212791#4
+
+
+2019-06-25 18:57:07,793 INFO receive config info: unknown#192.168.49.190:8848#1561460227793#4
+
+
+2019-06-25 18:57:22,795 INFO receive config info: unknown#192.168.49.190:8848#1561460242795#4
+
+
+2019-06-25 18:57:37,797 INFO receive config info: unknown#192.168.49.190:8848#1561460257797#4
+
+
+2019-06-25 18:57:52,799 INFO receive config info: unknown#192.168.49.190:8848#1561460272799#4
+
+
+2019-06-25 18:58:07,800 INFO receive config info: unknown#192.168.49.190:8848#1561460287800#4
+
+
+2019-06-25 18:58:22,801 INFO receive config info: unknown#192.168.49.190:8848#1561460302801#4
+
+
+2019-06-25 18:58:37,801 INFO receive config info: unknown#192.168.49.190:8848#1561460317801#4
+
+
+2019-06-25 18:58:52,804 INFO receive config info: unknown#192.168.49.190:8848#1561460332804#4
+
+
+2019-06-25 18:59:07,805 INFO receive config info: unknown#192.168.49.190:8848#1561460347805#4
+
+
+2019-06-25 18:59:22,807 INFO receive config info: unknown#192.168.49.190:8848#1561460362807#4
+
+
+2019-06-25 18:59:37,808 INFO receive config info: unknown#192.168.49.190:8848#1561460377808#4
+
+
+2019-06-25 18:59:52,811 INFO receive config info: unknown#192.168.49.190:8848#1561460392811#4
+
+
+2019-06-25 19:00:07,813 INFO receive config info: unknown#192.168.49.190:8848#1561460407813#4
+
+
+2019-06-25 19:00:22,815 INFO receive config info: unknown#192.168.49.190:8848#1561460422815#4
+
+
+2019-06-25 19:00:37,817 INFO receive config info: unknown#192.168.49.190:8848#1561460437817#4
+
+
+2019-06-25 19:00:52,818 INFO receive config info: unknown#192.168.49.190:8848#1561460452818#4
+
+
+2019-06-25 19:01:07,819 INFO receive config info: unknown#192.168.49.190:8848#1561460467819#4
+
+
+2019-06-25 19:01:22,821 INFO receive config info: unknown#192.168.49.190:8848#1561460482821#4
+
+
+2019-06-25 19:01:37,823 INFO receive config info: unknown#192.168.49.190:8848#1561460497823#4
+
+
+2019-06-25 19:01:50,765 INFO [HEALTH-CHECK] health check is true
+
+2019-06-25 19:01:52,825 INFO receive config info: unknown#192.168.49.190:8848#1561460512825#4
+
+
+2019-06-25 19:02:07,827 INFO receive config info: unknown#192.168.49.190:8848#1561460527827#4
+
+
+2019-06-25 19:02:22,828 INFO receive config info: unknown#192.168.49.190:8848#1561460542828#4
+
+
+2019-06-25 19:02:37,829 INFO receive config info: unknown#192.168.49.190:8848#1561460557829#4
+
+
+2019-06-25 19:02:52,830 INFO receive config info: unknown#192.168.49.190:8848#1561460572830#4
+
+
+2019-06-25 22:03:05,693 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@blade-log, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":false,"instanceId":"192.168.49.190#8103#DEFAULT#DEFAULT_GROUP@@blade-log","ip":"192.168.49.190","lastBeat":1561460583097,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8103,"serviceName":"DEFAULT_GROUP@@blade-log","tenant":"","weight":1}
+
+2019-06-25 22:03:05,694 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@blade-user, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":false,"instanceId":"192.168.49.190#8102#DEFAULT#DEFAULT_GROUP@@blade-user","ip":"192.168.49.190","lastBeat":1561460582001,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8102,"serviceName":"DEFAULT_GROUP@@blade-user","tenant":"","weight":1}
+
+2019-06-25 22:03:05,694 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@blade-admin, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":false,"instanceId":"192.168.49.190#7002#DEFAULT#DEFAULT_GROUP@@blade-admin","ip":"192.168.49.190","lastBeat":1561460584134,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":7002,"serviceName":"DEFAULT_GROUP@@blade-admin","tenant":"","weight":1}
+
+2019-06-25 22:03:05,720 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@blade-auth, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":false,"instanceId":"192.168.49.190#8100#DEFAULT#DEFAULT_GROUP@@blade-auth","ip":"192.168.49.190","lastBeat":1561460583000,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8100,"serviceName":"DEFAULT_GROUP@@blade-auth","tenant":"","weight":1}
+
+2019-06-25 22:03:06,066 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-admin
+
+2019-06-25 22:03:06,074 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-auth
+
+2019-06-25 22:03:06,086 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-user
+
+2019-06-25 22:03:06,102 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-log
+
+2019-06-25 22:03:06,698 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-log
+
+2019-06-25 22:03:06,701 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-user
+
+2019-06-25 22:03:06,702 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-admin
+
+2019-06-25 22:03:06,724 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-auth
+
+2019-06-25 22:03:06,725 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-log
+
+2019-06-25 22:03:06,725 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-auth
+
+2019-06-25 22:03:06,725 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-user
+
+2019-06-25 22:03:06,741 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-admin
+
+2019-06-25 22:03:07,206 INFO receive config info: unknown#192.168.49.190:8848#1561471387206#4
+
+
+2019-06-25 22:03:07,206 WARN server beat out of date, current: {"adWeight":0,"alive":true,"ip":"192.168.49.190","key":"192.168.49.190:8848","lastRefTime":1561471387206,"lastRefTimeStr":"2019-06-25 22:03:07","servePort":8848,"site":"unknown","weight":4}, last: {"adWeight":0,"alive":false,"ip":"192.168.49.190","key":"192.168.49.190:8848","lastRefTime":1561460572830,"lastRefTimeStr":"2019-06-25 19:02:52","servePort":8848,"site":"unknown","weight":4}
+
+2019-06-25 22:03:09,370 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-auth
+
+2019-06-25 22:03:09,373 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-admin
+
+2019-06-25 22:03:09,391 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-user
+
+2019-06-25 22:03:09,394 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@blade-log
+
+2019-06-25 22:03:10,588 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-admin, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-06-25 22:03:10,588 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-log, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-06-25 22:03:10,588 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-auth, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-06-25 22:03:10,589 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-user, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-06-25 22:03:11,411 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-user, value: {"cachedChecksum":"","instanceList":[{"app":"","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#8102#DEFAULT#DEFAULT_GROUP@@blade-user","ip":"192.168.49.190","lastBeat":1561471391411,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8102,"serviceName":"DEFAULT_GROUP@@blade-user","tenant":"","weight":1}]}
+
+2019-06-25 22:03:12,389 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-auth, value: {"cachedChecksum":"","instanceList":[{"app":"","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#8100#DEFAULT#DEFAULT_GROUP@@blade-auth","ip":"192.168.49.190","lastBeat":1561471392389,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8100,"serviceName":"DEFAULT_GROUP@@blade-auth","tenant":"","weight":1}]}
+
+2019-06-25 22:03:12,478 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-log, value: {"cachedChecksum":"","instanceList":[{"app":"","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#8103#DEFAULT#DEFAULT_GROUP@@blade-log","ip":"192.168.49.190","lastBeat":1561471392478,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8103,"serviceName":"DEFAULT_GROUP@@blade-log","tenant":"","weight":1}]}
+
+2019-06-25 22:03:13,518 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@blade-admin, value: {"cachedChecksum":"","instanceList":[{"app":"","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.49.190#7002#DEFAULT#DEFAULT_GROUP@@blade-admin","ip":"192.168.49.190","lastBeat":1561471393518,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":7002,"serviceName":"DEFAULT_GROUP@@blade-admin","tenant":"","weight":1}]}
+

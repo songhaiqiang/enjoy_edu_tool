@@ -1,0 +1,28 @@
+2019-06-24 11:50:17,843 INFO DEFAULT_GROUP@@blade-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-24 11:50:17,857 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-gateway, ips: 192.168.49.190:80_true,
+
+2019-06-24 13:05:26,536 INFO {POS} {IP-DISABLED} valid: 192.168.49.190:80@DEFAULT@DEFAULT_GROUP@@blade-gateway, region: unknown, msg: client timeout after 15000, last beat: 1561351287091
+
+2019-06-24 13:05:28,734 INFO service: DEFAULT_GROUP@@blade-gateway {POS} {IP-ENABLED} valid: 192.168.49.190:80@DEFAULT, region: unknown, msg: client beat ok
+
+2019-06-24 13:05:29,698 INFO DEFAULT_GROUP@@blade-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.49.190:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-24 13:05:29,698 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-gateway, ips: 
+
+2019-06-24 13:05:33,727 INFO DEFAULT_GROUP@@blade-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-24 13:05:33,727 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-gateway, ips: 192.168.49.190:80_true,
+
+2019-06-24 13:59:13,222 INFO DEFAULT_GROUP@@blade-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.49.190:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-24 13:59:13,223 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-gateway, ips: 
+
+2019-06-24 14:46:48,875 INFO DEFAULT_GROUP@@blade-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-24 14:46:48,875 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-gateway, ips: 192.168.49.190:80_true,
+
+2019-06-24 14:58:45,284 INFO DEFAULT_GROUP@@blade-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.49.190:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-24 14:58:45,284 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-gateway, ips: 
+
