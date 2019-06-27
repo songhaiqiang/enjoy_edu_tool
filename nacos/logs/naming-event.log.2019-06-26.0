@@ -1,0 +1,74 @@
+2019-06-26 09:42:58,506 INFO {POS} {IP-DISABLED} valid: 192.168.49.190:8100@DEFAULT@DEFAULT_GROUP@@blade-auth, region: unknown, msg: client timeout after 15000, last beat: 1561471397386
+
+2019-06-26 09:42:58,509 INFO {POS} {IP-DISABLED} valid: 192.168.49.190:8103@DEFAULT@DEFAULT_GROUP@@blade-log, region: unknown, msg: client timeout after 15000, last beat: 1561471397480
+
+2019-06-26 09:42:58,509 INFO {POS} {IP-DISABLED} valid: 192.168.49.190:7002@DEFAULT@DEFAULT_GROUP@@blade-admin, region: unknown, msg: client timeout after 15000, last beat: 1561471393518
+
+2019-06-26 09:42:58,512 INFO {POS} {IP-DISABLED} valid: 192.168.49.190:8102@DEFAULT@DEFAULT_GROUP@@blade-user, region: unknown, msg: client timeout after 15000, last beat: 1561471396415
+
+2019-06-26 09:43:00,044 INFO DEFAULT_GROUP@@blade-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.49.190:8100:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-06-26 09:43:00,044 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-auth, ips: 
+
+2019-06-26 09:43:00,734 INFO service: DEFAULT_GROUP@@blade-admin {POS} {IP-ENABLED} valid: 192.168.49.190:7002@DEFAULT, region: unknown, msg: client beat ok
+
+2019-06-26 09:43:01,255 INFO service: DEFAULT_GROUP@@blade-user {POS} {IP-ENABLED} valid: 192.168.49.190:8102@DEFAULT, region: unknown, msg: client beat ok
+
+2019-06-26 09:43:02,259 INFO DEFAULT_GROUP@@blade-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:8100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 09:43:02,259 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-auth, ips: 192.168.49.190:8100_true,
+
+2019-06-26 09:43:02,391 INFO service: DEFAULT_GROUP@@blade-log {POS} {IP-ENABLED} valid: 192.168.49.190:8103@DEFAULT, region: unknown, msg: client beat ok
+
+2019-06-26 09:57:20,860 INFO DEFAULT_GROUP@@blade-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.49.190:8100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 09:57:20,861 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-auth, ips: 
+
+2019-06-26 09:57:21,404 INFO DEFAULT_GROUP@@blade-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.49.190:7002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 09:57:21,404 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-admin, ips: 
+
+2019-06-26 09:57:22,009 INFO DEFAULT_GROUP@@blade-user {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.49.190:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 09:57:22,009 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-user, ips: 
+
+2019-06-26 09:57:22,399 INFO DEFAULT_GROUP@@blade-log {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.49.190:8103:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 09:57:22,399 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-log, ips: 
+
+2019-06-26 16:28:58,451 INFO DEFAULT_GROUP@@blade-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:7002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 16:28:58,590 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-admin, ips: 192.168.49.190:7002_true,
+
+2019-06-26 16:28:58,609 INFO DEFAULT_GROUP@@blade-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:8100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 16:28:58,609 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-auth, ips: 192.168.49.190:8100_true,
+
+2019-06-26 16:29:28,525 INFO DEFAULT_GROUP@@blade-log {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:8103:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 16:29:28,525 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-log, ips: 192.168.49.190:8103_true,
+
+2019-06-26 16:29:49,221 INFO DEFAULT_GROUP@@blade-desk {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:8105:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 16:29:49,221 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-desk, ips: 192.168.49.190:8105_true,
+
+2019-06-26 16:30:09,494 INFO DEFAULT_GROUP@@blade-system {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:8106:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 16:30:09,494 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-system, ips: 192.168.49.190:8106_true,
+
+2019-06-26 16:30:27,050 INFO DEFAULT_GROUP@@blade-user {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 16:30:27,050 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-user, ips: 192.168.49.190:8102_true,
+
+2019-06-26 16:30:51,893 INFO DEFAULT_GROUP@@blade-develop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:7007:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 16:30:51,894 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-develop, ips: 192.168.49.190:7007_true,
+
+2019-06-26 16:30:54,053 INFO DEFAULT_GROUP@@blade-resource {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:8010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 16:30:54,053 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-resource, ips: 192.168.49.190:8010_true,
+
+2019-06-26 16:31:42,655 INFO DEFAULT_GROUP@@blade-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.49.190:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-26 16:31:42,655 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-gateway, ips: 192.168.49.190:80_true,
+
